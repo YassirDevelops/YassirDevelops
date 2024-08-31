@@ -1,6 +1,6 @@
 <br />
 <h1 align="center">👋 Hi,  I'm Yassir!</h1>
-<h3 align="center">Frontend developer who's passionate about AI ,Telehealth ,and all things tech 💻</h3>
+<h3 align="center">Frontend developer who's passionate about AI ,Telemedicine ,and all things tech 💻</h3>
 
 <br /> 
 
